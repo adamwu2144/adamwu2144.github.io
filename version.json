@@ -1,0 +1,9 @@
+{
+    "latestVersion": "6.8.0.2",
+    "updateUrl": "itms-services://?action=download-manifest&url=https://adamwu2144.github.io/manifest.plist",
+    "plist_url": "https://adamwu2144.github.io/manifest.plist",
+    "ipa_url": "https://drive.google.com/uc?id=1TIkK9O2MZTEJbVIRS_jY8kFQhEan0Txw",
+    "build_number": "2",
+    "bundle_version": "6.8.0",
+    "release_notes": null
+}
